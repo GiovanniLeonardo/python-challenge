@@ -1,0 +1,7 @@
+Financial Analasis
+
+Total Months: 86
+Total Profit: $38382578
+Average Change: $-196783
+Greatest Increase in Profits: Feb-17, ($1926159)
+Greatest Decrease in Profits: Feb-17, ($-2196167)
