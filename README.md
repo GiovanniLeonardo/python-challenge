@@ -15,7 +15,7 @@ Python Homework - Py Me Up, Charlie (PyBank and  PyPoll)
 		
 ### PyBank analysis
 
-![PyBank Outpu](Images/pybankoutput.JPG)
+![PyBank Outpu](images/pybankoutput.JPG)
 
 ## PyPoll
 -In this challenge, you will be give a set of poll data called election_data.csv. 
@@ -29,4 +29,4 @@ Python Homework - Py Me Up, Charlie (PyBank and  PyPoll)
 	
 ### PyPol analysis
 
-![PyPol Outpu](Images/pypoloutput.JPG)
+![PyPol Outpu](images/pypoloutput.JPG)
